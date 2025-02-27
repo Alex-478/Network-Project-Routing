@@ -3,7 +3,7 @@ Project from ISEC-ED2223
 
 # **Network Planning and Configuration Project**  
 ## **Image Network Topology**  
-![Topologia](https://github.com/user-attachments/assets/fe159f51-7438-43d0-a722-dad72528bece) 
+![Topologia ED](https://github.com/user-attachments/assets/aee9fdf9-853e-48c9-950d-7f430a5990ce)
 
 ## **Overview**  
 This project focuses on the planning and configuration of a fictional network as part of the **Data Routing** course in the Computer Engineering degree at the **Instituto Superior de Engenharia de Coimbra (ISEC)** during the 2022/2023 academic year. The objective is to develop skills in designing and configuring local and wide-area networks (LAN/WAN).  
